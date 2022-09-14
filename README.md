@@ -16,23 +16,23 @@ Results:
   
   10 Most important Features (by gain): 
   
-   - motorcycles per 1000 residents (2012)	
+   	- motorcycles per 1000 residents (2012)	
    
-	 - hybrid cars per 1000 vehicles (2013)
+	- hybrid cars per 1000 vehicles (2013)
    
-	 - multi-generation households (2010)	
+	- multi-generation households (2010)	
    
-   - dentists per 10000 residents (2013)	
+   	- dentists per 10000 residents (2013)	
    
-	 - motorcycles change in ownership (2000-2012)	
+	- motorcycles change in ownership (2000-2012)	
    
-	 - income average per resident (2010)	
+	- income average per resident (2010)	
    
-	 - electricians per 1000 residents (2013)	
+	- electricians per 1000 residents (2013)	
    
-	 - households average size (2010)	
+	- households average size (2010)	
    
-	 - construction supervisors per 10000 residents (2013)
+	- construction supervisors per 10000 residents (2013)
    
-	 - education spending per resident (2012)
+	- education spending per resident (2012)
    
