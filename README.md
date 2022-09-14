@@ -6,7 +6,7 @@ Data set: attached town_data.csv containing 75 facts about 350 Massachusetts tow
 
 Models used: Decision Tree, Random Forest, K-Nearest Neighbors, XGBoost
 
-Results:
+# Results:
 
   Best Performing Model: XGBoost 
   
