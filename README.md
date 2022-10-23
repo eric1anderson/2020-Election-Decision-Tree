@@ -12,7 +12,7 @@ Models used: Decision Tree, Random Forest, K-Nearest Neighbors, XGBoost
   
   Accuracy: 0.7285
   
-  F1 Score: 0.7328
+  F1 Score: 0.7247
   
   10 Most important Features (by gain): 
   
