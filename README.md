@@ -10,9 +10,17 @@ Models used: Decision Tree, Random Forest, K-Nearest Neighbors, XGBoost
 
   Best Performing Model: XGBoost 
   
+  Multiclass Peformance:
+  
   Accuracy: 0.7285
   
   F1 Score: 0.7247
+  
+  Democratic vs Republican Binary Classification Performance:
+  
+  Accuracy: 0.9142
+  
+  F1 Score: 0.9433
   
   10 Most important Features (by gain): 
   
