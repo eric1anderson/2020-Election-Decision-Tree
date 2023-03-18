@@ -25,9 +25,9 @@ Models used: Decision Tree, Random Forest, K-Nearest Neighbors, XGBoost
   
 ### 10 Most important Features:
 
-  ![Feaure Importances](images\feature_importance.png)
+  ![Feaure Importances](https://github.com/eric1anderson/2020-Election-Decision-Tree/blob/main/images/feature_importance.png)
 
 
 ### Confusion Matrix of best model:
 
-![Confusion Matrix](images\confusion_matrix.png)
+![Confusion Matrix](https://github.com/eric1anderson/2020-Election-Decision-Tree/blob/main/images/confusion_matrix.png)
